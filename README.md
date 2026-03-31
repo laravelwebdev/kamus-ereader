@@ -4,9 +4,9 @@ Kamus besar bahasa indonesia versi 6
 update oktober 2025
 
 # Terms
-1. Tidak untuk dikomersilkan
+1. Tidak untuk penggunan secara komersial
 2. Tujuan saya buat murni hanya untuk memberikan pengetahuan berbahasa Indonesia khususnya bagi pengguna ereader
-3. Semoga ke depan tersedia KBBI resmi untuk ereader.
+3. Semoga nantinya tersedia KBBI resmi untuk ereader.
 
 # Supported Format
 1. xdxf (tested)
