@@ -1,7 +1,8 @@
-# KBBI
+# Kamus E-Reader
 
-Kamus besar bahasa indonesia versi 6
-update oktober 2025
+1. Kamus besar bahasa indonesia versi 6 update oktober 2025
+2. Indonesia-Inggris (63.272 Kata)
+3. Inggris-Indonesia (115.780 kata + synonym + Irregullar Verb)
 
 # Terms
 1. Tidak untuk penggunan secara komersial
