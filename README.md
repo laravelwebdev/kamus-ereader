@@ -11,7 +11,7 @@
 
 # Supported Format
 1. xdxf (tested)
-2. stardict (tested on Linguae, Stradict, Meebook)
+2. stardict (tested on Linguae, Stradict, Meebook, Koreader)
 3. dic (tested on Pocketbook Era)
 4. mobi (Untuk Kindle, not tested yet, gak punya kindle)
 5. kobo (not tested yet, gak punya kobo)
